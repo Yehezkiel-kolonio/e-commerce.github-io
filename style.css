@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* CSS SIDE-BAR */
+.side-bar {
+    background-color: grey;
+}
+
+.navbar {
+    background-color: grey;
+}
+
+.offcanvas {
+    background-color: grey;
+}
+
+.navbar-toggler-icon {
+    margin-top: 5px;
+    font-size: 20px;
+    color: black;
+}
+
+.navbar-toggler:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+    transition: all 0.5s;
+}
+
+.nav-link:hover {
+    color: red;
+}
+
+/* CSS SIDE-BAR */
+
+/* CSS SLIDER */
+.carousel img {
+    background-size: cover;
+    margin-top: -80px;
+    height: 750px;
+}
