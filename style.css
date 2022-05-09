@@ -4,13 +4,22 @@
     box-sizing: border-box;
 }
 
+
+
 /* CSS SIDE-BAR */
+
+.nav-link {
+    margin-right: 100px;
+
+}
+
 .side-bar {
     background-color: grey;
 }
 
 .navbar {
     background-color: grey;
+    margin-top: 40px;
 }
 
 .offcanvas {
@@ -43,6 +52,10 @@
 
 .nav-link:hover {
     color: red;
+}
+
+.form-control {
+    width: 100px;
 }
 
 /* CSS SIDE-BAR */
