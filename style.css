@@ -64,5 +64,24 @@
 /* CSS SLIDER */
 .carousel img {
     background-size: cover;
-    margin-top: 45px;
+    margin-top: 50px;
+}
+
+.best-seller {
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 2rem;
+}
+
+.card-body {
+    border-style: none;
+}
+
+.row .card:hover {
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+    transform: scale(1.02);
+}
+
+.detail {
+    margin-left: 130px;
 }
