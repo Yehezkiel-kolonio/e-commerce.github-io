@@ -90,5 +90,11 @@
 .bi-star-half {
     color: gold;
 }
+
 /* CSS SLIDER */
 
+.instagram-feeds {
+    text-transform: uppercase;
+    font-size: 20px;
+    padding-top: 2rem;
+}
