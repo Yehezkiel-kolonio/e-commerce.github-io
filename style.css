@@ -85,3 +85,10 @@
 .detail {
     margin-left: 83px;
 }
+
+.bi-star-fill,
+.bi-star-half {
+    color: gold;
+}
+/* CSS SLIDER */
+
