@@ -23,6 +23,19 @@
   background-color: #000 !important;
 }
 
+
+[data-theme="dark"] .modal-header {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] .modal-body {
+  background-color: #000 !important;
+}
+
+[data-theme="dark"] table {
+  color: #eee;
+}
+
 [data-theme="dark"] .bg-black {
   background-color: #eee !important;
 }

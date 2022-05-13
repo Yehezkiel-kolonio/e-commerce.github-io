@@ -30,8 +30,8 @@ body {
 
 .offcanvas {
     background-color: grey;
+    width: 230px;
 }
-
 
 .navbar-toggler-icon {
     margin-top: 5px;
@@ -102,7 +102,6 @@ body {
 .card {
     background-color: #FBE7C6;
 }
-
 
 /* CSS INSTARGAM FEEDS */
 .instagram-feeds {
